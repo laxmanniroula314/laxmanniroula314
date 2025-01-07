@@ -7,7 +7,7 @@
 - ⚛️ Skilled in **React.js**, **Express.js**, **Node.js**, and **MongoDB**.
 - 🌱 Currently exploring **backend development** and diving deeper into **cloud technologies**.
 - 💬 Ask me about **web development**, **UI/UX design**, or **JavaScript frameworks**.
-- 📫 Reach me at: [stu@utsavbhattarai.info.np](mailto:stu@utsavbhattarai.info.np)
+- 📫 Reach me at:
 - ⚡ Fun fact: I enjoy solving design challenges and love exploring new frameworks!
 
 ---
@@ -26,12 +26,7 @@
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
