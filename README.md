@@ -36,7 +36,7 @@
 ## 🌐 Connect with Me
 
 - [Portfolio Website]()  
-- [LinkedIn](https://www.linkedin.com/in/laxmanniroula314)  
+- [LinkedIn](https://www.linkedin.com/in/laxman-niroula/)  
 
 
 Let's collaborate and make something amazing! 🌟
