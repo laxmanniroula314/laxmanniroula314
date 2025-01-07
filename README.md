@@ -3,12 +3,12 @@
                                             🌟 Welcome to my GitHub profile! I'm a **Frontend Developer** 
 ## 👨‍💻 About Me
 
-- 🔭 Open to **freelance opportunities** and collaborative projects.
-- ⚛️ Skilled in **React.js**, **Express.js**, **Node.js**, and **MongoDB**.
-- 🌱 Currently exploring **backend development** and diving deeper into **cloud technologies**.
-- 💬 Ask me about **web development**, **UI/UX design**, or **JavaScript frameworks**.
+- 🔭 Open to 
+- ⚛️ Skilled in 
+- 🌱 Currently exploring
+- 💬 Ask me about 
 - 📫 Reach me at:
-- ⚡ Fun fact: I enjoy solving design challenges and love exploring new frameworks!
+- ⚡ Fun fact:
 
 ---
 
@@ -23,30 +23,20 @@
 
 **Backend**:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
 
 ## 📈 GitHub Stats
 
-![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanniroula314&show_icons=true&theme=radical)
+![Laxman's GitHub stats] (https://github-readme-stats.vercel.app/api?username=laxmanniroula314&show_icons=true&theme=radical)
 
 ---
 
-## 📕 Latest Blog Posts
-
-- 🚀 **From Kathmandu to Bengaluru: My Journey in Tech**  
-- 🧠 **Introducing AI-KYC: The Next Evolution in Verification**  
-- 🛠️ **Apexa - Your All-in-One Analyzer**  
-- 🎉 **Reflections on Hacktoberfest 2023**
-
----
 
 ## 🌐 Connect with Me
 
-- [Portfolio Website](https://your-portfolio-url.com)  
+- [Portfolio Website]()  
 - [LinkedIn](https://www.linkedin.com/in/laxmanniroula314)  
-- [Twitter](https://twitter.com/your-twitter-handle)
+
 
 Let's collaborate and make something amazing! 🌟
