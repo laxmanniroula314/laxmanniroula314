@@ -1,6 +1,7 @@
-                                                     Namaste 👋 Hi, I'm Laxman Niroula!  
+   👋 Hi, I'm Laxman Niroula!  
 
-                                            🌟 Welcome to my GitHub profile! I'm a **Frontend Developer** 
+🌟 Welcome to my GitHub profile! I'm a **Frontend Developer** 
+
 ## 👨‍💻 About Me
 
 - 🔭 Open to 
@@ -10,7 +11,6 @@
 - 📫 Reach me at:
 - ⚡ Fun fact:
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -28,11 +28,11 @@
 
 
 
-
 ## 🌐 Connect with Me
 
 - [Portfolio Website]()  
 - [LinkedIn](https://www.linkedin.com/in/laxman-niroula/)  
 
 
-Let's collaborate and make something amazing! 🌟
+
+   Let's collaborate and make something amazing! 🌟
