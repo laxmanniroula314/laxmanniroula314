@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Laxman Niroula!  
+                                                     Namaste 👋 Hi, I'm Laxman Niroula!  
 
-🌟 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting engaging web experiences and building dynamic applications. Here's a little about me:
-
----
-
+                                            🌟 Welcome to my GitHub profile! I'm a **Frontend Developer** 
 ## 👨‍💻 About Me
 
 - 🔭 Open to **freelance opportunities** and collaborative projects.
