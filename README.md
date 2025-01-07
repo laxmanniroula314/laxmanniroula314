@@ -28,7 +28,8 @@
 
 ## 📈 GitHub Stats
 
-![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanniroula314&show_icons=true&theme=radical)
+![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanniroula314&show_icons=true&theme=radical)
+
 
 ---
 
