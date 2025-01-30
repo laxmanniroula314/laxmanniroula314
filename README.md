@@ -32,7 +32,7 @@
 
 ## 🌐 Connect with Me
 
-- [Portfolio Website](laxmanniroula.com.np)  
+- [Portfolio Website](https://laxmanniroula.com.np/)  
 - [LinkedIn](https://www.linkedin.com/in/laxman-niroula/)  
 
 
