@@ -17,16 +17,16 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/laxman-niroula/" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100037148273398">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/15047/15047435.png"  alt="Facebook" width="30" height="30"/>
   </a>
   <a href="https://www.instagram.com/_laxmn_314/" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="Instagram" width="30" height="30"/>
   </a>
   <a href="https://x.com/Laxman_Nir314" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="X" width="30" height="30"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/laxmannirhr6/" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/>
@@ -34,8 +34,11 @@
   <a href="https://leetcode.com/u/Dvll4BLuZE/" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
-   <a href="https://www.hackerrank.com/profile/laxmanniroula45" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/HackerRank_Icon-1000px.png"  alt="HackerRank" width="30" height="35"/>
+    <a href="https://www.hackerrank.com/profile/laxmanniroula45" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="30" height="30"/>
+  </a>
+   <a href="https://www.freecodecamp.org/laxmanniroula07">
+    <img src="https://assets.ifttt.com/images/channels/983099305/icons/monochrome_large.webp" alt="freeCodeCamp" width="30" height="30"/>
   </a>
 </p>
 
