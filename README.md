@@ -40,6 +40,10 @@
    <a href="https://www.freecodecamp.org/laxmanniroula07">
     <img src="https://assets.ifttt.com/images/channels/983099305/icons/monochrome_large.webp" alt="freeCodeCamp" width="30" height="30"/>
   </a>
+  <a href="https://www.fiverr.com/devwithlaxman/buying?source=avatar_menu_profile">
+    <img src="https://static.wixstatic.com/media/d7f5d6_84b7949808db4f50ae71e9e17e5ccd0e~mv2.png/v1/fill/w_210,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d7f5d6_84b7949808db4f50ae71e9e17e5ccd0e~mv2.png" alt="fiverr" width="30" height="30"/>
+  </a>
+  
 </p>
 
 
