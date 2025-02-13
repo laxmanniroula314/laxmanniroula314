@@ -16,16 +16,27 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35"/>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100037148273398" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="35" height="35" style="fill:#1877F2;"/>
   </a>
+  
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/laxman-niroula/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="fill:#0077B5;"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_laxmn_314/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="35" height="35" style="fill:#E4405F;"/>
+  </a>
+  
+  <!-- Twitter (X) -->
+  <a href="https://x.com/Laxman_Nir314" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter" width="35" height="35" style="fill:#000000;"/>
   </a>
 </p>
+
 
 ## 🛠️ Technologies & Tools  
 <p align="center">
