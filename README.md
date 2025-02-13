@@ -28,7 +28,17 @@
   <a href="https://x.com/Laxman_Nir314" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="30" height="30"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/user/laxmannirhr6/" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="35" height="35"/>
+  </a>
+  <a href="https://leetcode.com/u/Dvll4BLuZE/" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35"/>
+  </a>
+   <a href="https://www.hackerrank.com/profile/laxmanniroula45" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/HackerRank_logo.svg" alt="HackerRank" width="35" height="35"/>
+  </a>
 </p>
+
 
 
 
