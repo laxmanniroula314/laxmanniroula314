@@ -16,26 +16,20 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=100037148273398" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="35" height="35" style="fill:#1877F2;"/>
+  <a href="https://www.linkedin.com/in/laxman-niroula/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/laxman-niroula/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="fill:#0077B5;"/>
+  <a href="https://www.facebook.com/profile.php?id=100037148273398">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
   </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_laxmn_314/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="35" height="35" style="fill:#E4405F;"/>
+  <a href="https://www.instagram.com/_laxmn_314/" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
-  
-  <!-- Twitter (X) -->
-  <a href="https://x.com/Laxman_Nir314" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter" width="35" height="35" style="fill:#000000;"/>
+  <a href="https://x.com/Laxman_Nir314" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="30" height="30"/>
   </a>
 </p>
+
 
 
 ## 🛠️ Technologies & Tools  
