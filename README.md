@@ -41,9 +41,8 @@
 </p>
 
 ## 📊 GitHub Stats  
-<div align="center" style="display: flex-inline; justify-content: center; gap:1px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laxmanniroula314&show_icons=true&theme=light&title_color=0e75b6&text_color=0e75b6&cache_seconds=86400" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanniroula314&layout=compact&theme=light&title_color=0e75b6&text_color=0e75b6&cache_seconds=86400"  height="170"/>
-</div>
 </p>
 <h3 align="center">💡 Let's connect, create, and build something extraordinary! 🚀</h3>
