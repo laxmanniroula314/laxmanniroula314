@@ -3,7 +3,7 @@
 <p align="center">A passionate <b>Frontend Developer</b> from Nepal, crafting <b>Responsive, User-friendly Websites</b> 
   with <b>Clean, Cfficient Code</b>. I love turning ideas into seamless digital experiences!
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxmanniroula314&label=Profile%20Views&color=blue" width="160" height="25"/>
+  <img src="https://komarev.com/ghpvc/?username=laxmanniroula314&label=Profile%20Views&color=blue" width="160" height="20"/>
 </p>
 
 ## 👨‍💻 About Me  
