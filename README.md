@@ -11,7 +11,7 @@
 - ⚛️ Skilled in **React, JavaScript, HTML, CSS, Bootstrap**.  
 - 🌱 Currently exploring **Node.js, Python , MongoDB**.  
 - 💬 Ask me about **Frontend Development, UI/UX, and Web Performance**.  
-- 📫 Reach me at: **laxmanniroula314@gmail.com**  
+- 📫 Reach me at: **laxmanniroula45@gmail.com**  
 - ⚡ Fun fact: **Code**, **Roads** and **New Horizons** My kind of Adventure!  
 
 ## 🌐 Connect with Me  
